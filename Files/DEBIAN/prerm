@@ -1,0 +1,3 @@
+#!/bin/bash
+
+plutil -key UIStatusBarHidden -remove /Applications/Web.app/Info.plist
