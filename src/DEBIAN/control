@@ -1,6 +1,6 @@
 Package: com.innoying.FullScreenWeb
 Name: Full Screen Web
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: A simple tweak to force truly fullscreen webclips. 
 Requires: com.ericasadun.utilities
